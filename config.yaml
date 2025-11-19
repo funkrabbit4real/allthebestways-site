@@ -1,7 +1,9 @@
 baseURL: "https://www.allthebestways.com/"
 title: "All The Best Ways"
 languageCode: "en-us"
-paginate: 10
+
+pagination:
+  pagerSize: 10
 
 module:
   imports:
